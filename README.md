@@ -26,7 +26,8 @@ At each generation step, the model has access to:
 
 * the top-k most probable tokens;
 * their associated probabilities or logits;
-* aggregated uncertainty metrics (e.g., entropy).
+* aggregated uncertainty metrics (e.g., entropy);
+* probability distributions for the last *n* generated tokens, including alternative token candidates and their probabilities.
 
 This information is used by the model to reason about the following question:
 
@@ -179,3 +180,9 @@ You are free to use, share, adapt, and build upon this document for research, ed
 I welcome further research, experimentation, and discussion around this idea. If you use or reference this work, please provide clear attribution to the original author.
 
 ---
+
+## License
+
+This document is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You may use this work for any purpose, including commercial use, provided that appropriate credit is given to the author and that any modifications are clearly indicated.
