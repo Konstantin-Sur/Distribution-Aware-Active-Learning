@@ -178,11 +178,3 @@ Rather than replacing external supervision, the method introduces a structured m
 You are free to use, share, adapt, and build upon this document for research, educational, or commercial purposes.
 
 I welcome further research, experimentation, and discussion around this idea. If you use or reference this work, please provide clear attribution to the original author.
-
----
-
-## License
-
-This document is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-
-You may use this work for any purpose, including commercial use, provided that appropriate credit is given to the author and that any modifications are clearly indicated.
